@@ -55,10 +55,19 @@ cd RoboTUM_ROS2_Workshop
 ### 2. Create a ROS 2 workspace and build
 ```bash
 mkdir -p ~/ros2_ws/src
-cp -r . ~/ros2_ws/src/ # Copy all the code you just cloned to the workspace ~/ros2_ws/src/.
-cd ~/ros2_ws # Note that you must be back to the workspace root directory
-source /opt/ros/rolling/setup.bash  # or source /opt/ros/humble/setup.bash
-colcon build # Note that you must execute the colcon build command in the workspace root directory
+
+cp -r . ~/ros2_ws/src/ 
+# Copy all the code you just cloned to the workspace ~/ros2_ws/src/.
+
+cd ~/ros2_ws 
+# Note that you must be back to the workspace root directory
+
+source /opt/ros/rolling/setup.bash  
+# or source /opt/ros/humble/setup.bash
+
+colcon build 
+# Note that you must execute the colcon build command in the workspace root directory
+
 source install/setup.bash
 ```
 
