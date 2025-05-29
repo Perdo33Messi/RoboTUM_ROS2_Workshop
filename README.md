@@ -12,7 +12,6 @@ We'll walk you through key components like Topics, Services, Actions, Nodes, and
 
 - Understand the basic communication mechanisms in ROS 2 (Topic / Service / Action)
 - Learn how to write and run simple ROS 2 nodes (mainly in Python, with some C++ examples)
-- Create and use custom interfaces
 - Use launch files to organize project structure
 
 ---
@@ -27,13 +26,13 @@ Recommended development environment:
 - **Python 3.10+**
 - **C++17**
 
-📝 *Note*: This project is also expected to be compatible with **ROS 2 Humble + Ubuntu 22.04**.
+*Note*: This project is also expected to be compatible with **ROS 2 Humble + Ubuntu 22.04**.
 
 ---
 
 ## 📄 Workshop Handouts
 
-👉 [Click here to view the Notion handouts (beginner-friendly)](https://www.notion.so/starryocean/ROS2-Workshop-ROS2-ROS2-Workshop-Handouts-for-ROS2-beginners-1ff866ba436e8056b00fc457636b7952?source=copy_link)
+👉 [ROS2 Workshop Handouts (for ROS2 beginners)](https://www.notion.so/starryocean/ROS2-Workshop-ROS2-ROS2-Workshop-Handouts-for-ROS2-beginners-1ff866ba436e8056b00fc457636b7952?source=copy_link)
 
 ---
 
