@@ -20,7 +20,7 @@ We'll walk you through key components like Topics, Services, Actions, Nodes, and
 
 Recommended development environment:
 
-- **ROS 2 Rolling** (latest features)  
+- **ROS 2 Rolling**  
 - **Ubuntu 24.04**
 - **colcon**
 - **Python 3.10+**
@@ -49,10 +49,12 @@ cd RoboTUM_ROS2_Workshop
 ```bash
 mkdir -p ~/ros2_ws/src
 cp -r . ~/ros2_ws/src/
-cd ~/ros2_ws
+cd ~/ros2_ws # Copy all the code you just cloned to the workspace ~/ros2_ws/src/.
 source /opt/ros/rolling/setup.bash  # or source /opt/ros/humble/setup.bash
-colcon build
+colcon build # Note that you must execute the colcon build command in the workspace root directory
+source install/setup.bash
 ```
+
 
 ---
 
