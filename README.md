@@ -1,7 +1,9 @@
 # RoboTUM ROS2 Workshop 🚀
 
 Welcome to the **RoboTUM** ROS 2 Workshop!  
+
 This project is designed to help you get started with ROS 2 and understand its core concepts through hands-on programming.  
+
 We'll walk you through key components like Topics, Services, Actions, Nodes, and Launch files with clear and structured examples.
 
 ---
@@ -12,7 +14,6 @@ We'll walk you through key components like Topics, Services, Actions, Nodes, and
 - Learn how to write and run simple ROS 2 nodes (mainly in Python, with some C++ examples)
 - Create and use custom interfaces
 - Use launch files to organize project structure
-- Build and run a complete ROS 2 project from scratch
 
 ---
 
