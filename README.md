@@ -38,14 +38,14 @@ Recommended development environment:
 
 ## 🚀 Quick Start
 
-# 1. Clone this repository
+### 1. Clone this repository
 
 ```bash
 git clone https://github.com/Perdo33Messi/RoboTUM_ROS2_Workshop.git
 cd RoboTUM_ROS2_Workshop
 ```  
 
-# 2. Create a ROS 2 workspace and build
+### 2. Create a ROS 2 workspace and build
 ```bash
 mkdir -p ~/ros2_ws/src
 cp -r . ~/ros2_ws/src/
@@ -66,6 +66,8 @@ colcon build
 
 ## ❤️ Acknowledgment
 
-This workshop is organized and maintained by members of **TUM RoboTUM**.  
+This workshop is organized and maintained by members of **RoboTUM**.  
+
 Feel free to submit suggestions or improvements via **Issues** or **Pull Requests**.  
+
 We wish you a steady and soaring journey in the world of robotics development! ✨
