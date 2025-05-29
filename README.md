@@ -38,17 +38,21 @@ Recommended development environment:
 
 ## 🚀 Quick Start
 
-```bash
 # 1. Clone this repository
+
+```bash
 git clone https://github.com/Perdo33Messi/RoboTUM_ROS2_Workshop.git
 cd RoboTUM_ROS2_Workshop
+```  
 
 # 2. Create a ROS 2 workspace and build
+```bash
 mkdir -p ~/ros2_ws/src
 cp -r . ~/ros2_ws/src/
 cd ~/ros2_ws
 source /opt/ros/rolling/setup.bash  # or source /opt/ros/humble/setup.bash
 colcon build
+```
 
 ---
 
