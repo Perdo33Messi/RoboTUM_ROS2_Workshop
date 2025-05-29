@@ -1,0 +1,9 @@
+bool get      # 获取目标位置的指令  
+              # Command to get the target position
+
+---
+int32 x       # 目标的X坐标  
+              # Target X coordinate
+
+int32 y       # 目标的Y坐标  
+              # Target Y coordinate

@@ -1,0 +1,9 @@
+int64 a        # 第一个加数  
+               # The first addend
+
+int64 b        # 第二个加数  
+               # The second addend
+
+---
+int64 sum      # 求和结果  
+               # The result of the addition

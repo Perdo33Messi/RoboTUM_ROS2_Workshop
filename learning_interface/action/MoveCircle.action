@@ -1,0 +1,10 @@
+bool enable     # 定义动作的目标，表示动作开始的指令 | True 开始旋转；False 不旋转
+                # Define the action goal, indicating the start command | True to start rotating; False to stop
+
+---
+bool finish     # 定义动作的结果，表示是否成功执行
+                # Define the action result, indicating whether the action was executed successfully
+
+---
+int32 state     # 定义动作的反馈，表示当前执行到的位置
+                # Define the action feedback, indicating the current position during execution
