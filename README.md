@@ -8,6 +8,14 @@ We'll walk you through key components like Topics, Services, Actions, Nodes, and
 
 ---
 
+## 🎯 Target Audience
+
+- Undergraduate or graduate students interested in robotics or ROS  
+- Beginners with little or no experience in ROS 2  
+- Developers who want to understand the principles behind ROS communication models
+
+---
+
 ## 📚 Workshop Goals
 
 - Understand the basic communication mechanisms in ROS 2 (Topic / Service / Action)
@@ -55,14 +63,6 @@ colcon build # Note that you must execute the colcon build command in the worksp
 source install/setup.bash
 ```
 
-
----
-
-## 🎯 Target Audience
-
-- Undergraduate or graduate students interested in robotics or ROS  
-- Beginners with little or no experience in ROS 2  
-- Developers who want to understand the principles behind ROS communication models
 
 ---
 
